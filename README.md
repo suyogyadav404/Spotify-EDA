@@ -8,6 +8,7 @@ Spotify Songs Exploratory Data Analysis Project using Pandas, NumPy, Seaborn
 ### . Data Analysis
 
 ### Analysis performed as: 
+
 Top 5 most popular artists
 Top 5 loudest tracks
 Artist with the most danceability song
