@@ -10,10 +10,15 @@ Spotify Songs Exploratory Data Analysis Project using Pandas, NumPy, Seaborn
 ### Analysis performed as: 
 
 Top 5 most popular artists
+
 Top 5 loudest tracks
+
 Artist with the most danceability song
+
 To 10 instrumentalness tracks
+
 Multiple feature plots
+
  . tempo
  . loudness
  . acousticness
@@ -24,6 +29,9 @@ Multiple feature plots
  . liveness
  . speechiness
  . valence
+ 
 Top 10 energetic tracks
+
 Most popular artist
+
 Top 10 tracks with the most valence 
